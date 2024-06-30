@@ -83,7 +83,7 @@ Throughout this project, I have acquired and honed the following skills:
 - **Machine Learning**: Applying regression models to predict outcomes and understand relationships between variables.
 - **Critical Thinking**: Analyzing data to form hypotheses, test them, and interpret the results in the context of educational performance.
 
-## Libraries 
+## Libraries, estimators, preprocessing, evaluation
 Throughout this project, I have acquired and honed the following library :
 - pandas
 - matplotlib
